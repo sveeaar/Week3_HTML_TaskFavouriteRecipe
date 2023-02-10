@@ -1,0 +1,58 @@
+body {
+    background-color: cornsilk;
+}
+
+.heading {
+    text-align: center;
+}
+
+.carbonara-heading {
+        color: darkblue;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 2rem;
+}
+
+.ingredients {
+    border: 2px solid blue;
+    width: 40%;
+    margin: 20px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ingredients table {
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
+.instruction {
+    border: 2px solid green;
+    width: 75%;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.instruction ol {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.carbonara-picture {
+    border: 1px solid black;
+    margin-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.recipe-source {
+    margin-left: 700px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 1rem;
+    color: darkslategray;
+}
